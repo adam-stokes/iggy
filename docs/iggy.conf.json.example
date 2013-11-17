@@ -1,0 +1,8 @@
+{
+    "name" : "iggy",
+    "channels" : ['#iggy', '#iggy-test'],
+    "server" : "irc.freenode.net",
+    "port" : 6667,
+    "ssl" : false,
+    "serverpass" : ""
+}
